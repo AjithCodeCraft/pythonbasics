@@ -130,6 +130,7 @@ print("- Name type:", type(full_name))
 print("- Age type:", type(age))
 print("- Favorite Number type:", type(favorite_number))
 print("- Learning Python type:", type(is_learning_python))
+print(f"My name is  {full_name}")  f-string (formatted string literal)
 ```
 
 ## Type Conversion
